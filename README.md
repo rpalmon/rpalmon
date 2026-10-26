@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Roee, a full-stack software engineer and student from Los Angeles. I enjoy video games and developing web apps on the side. 
 <!--
 **rpalmon/rpalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
